@@ -6,7 +6,7 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.e.affirmations.adapter.ItemAdapter
 import com.e.affirmations.data.Datasource
-import javax.sql.DataSource
+
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
